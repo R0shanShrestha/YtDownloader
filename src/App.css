@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.bg {
+  background: url("assets/background/background.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
